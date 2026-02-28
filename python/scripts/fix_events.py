@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 # CONFIGURATION (Same as before)
 db_user = 'postgres'
-db_password = '0911saqlain' # <--- SQL server password of your machine!
+db_password = '' # <--- SQL server password of your machine!
 db_host = 'localhost'
 db_port = '5432'
 db_name = 'ecommerce_db'
