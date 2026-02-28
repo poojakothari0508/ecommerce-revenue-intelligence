@@ -1,5 +1,11 @@
 ## 📊 Key Business Insights & Strategic Recommendations
 
+## 📈 Executive Power BI Dashboard
+
+I built an interactive Business Intelligence dashboard to allow stakeholders to filter revenue trends, monitor AOV, and track payment behaviors dynamically.
+
+![Executive Dashboard](reports/executive_dashboard.png)
+
 Based on the SQL analytics and Python data modeling, here are the core findings for the executive team:
 
 **1. The "Leaky Bucket" Retention Problem (Urgent)**
